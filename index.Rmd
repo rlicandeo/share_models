@@ -109,6 +109,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-## link to Operating model equations 
+## Link to PDF with operating model equations 
 
-[Link to my PDF](P:\PCloud Sync\share_models\images\Tables_MS_MSE_Anchovy_Sardine.pdf)
+[Link to Tables 1-4](https://rlicandeo.github.io/share_models/images/Tables_MS_MSE_Anchovy_Sardine.pdf)
