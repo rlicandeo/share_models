@@ -106,3 +106,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ![Median of the long term fishing mortality  (line) grouping simulations by quarter when the risk-neutral utility function was used for the six operating models (OM) and recruitment scenarios. The gray area corresponds to the 0.25 and 0.75 quantiles of the distribution. See Figure 1 for details on recruitment scenarios](P:\PCloud Sync\share_models\images\a_Ft_s_Ft_OM_devs_Ctpow_1.png)
 
 
+
+
+
+## link to Operating model equations 
+
+[Link to my PDF](P:\PCloud Sync\share_models\images\Tables_MS_MSE_Anchovy_Sardine.pdf)
